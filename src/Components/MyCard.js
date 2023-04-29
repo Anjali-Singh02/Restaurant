@@ -12,6 +12,7 @@ const MyCard = () => {
                 <span className='card-description subtle'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab corporis commodi pariatur explicabo a voluptatum error sint esse sed quidem?Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque nihil fugit tenetur sapiente laborum rem est iure, soluta temporibus alias facilis ad!
                 </span>
                 <div className='card-read'>Read</div>
+                <img src="{images}" alt="images" className='card-media' />
                 <span className='card-tag subtle'>Order now</span>
             </div>
         </div>
