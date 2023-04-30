@@ -1,8 +1,8 @@
 const Menu = [
   {
     id: 1,
-    image: "images/maggi.jpg",
-    name: "maggi",
+    image: " images/chhole_puri.jpg",
+    name: "Chhole Puri",
     category: "breakfast",
     price: "12₹",
     description:
@@ -11,8 +11,8 @@ const Menu = [
 
   {
     id: 2,
-    image: "images/allupakoida.jpg",
-    name: "allu pakoida",
+    image: "images/pasta.jpg",
+    name: "Pasta",
     category: "evening",
     price: "20₹",
     description:
@@ -20,8 +20,8 @@ const Menu = [
   },
   {
     id: 3,
-    image: "images/corn.jpg",
-    name: "corn",
+    image: "images/Dosa.jpg",
+    name: "Dosa",
     category: "breakfast",
     price: "10₹",
     description:
@@ -29,8 +29,8 @@ const Menu = [
   },
   {
     id: 4,
-    image: "../images/chola.jpg",
-    name: "chola",
+    image: "../images/rice.jpg",
+    name: "Rice",
     category: "lunch",
     price: "50₹",
     description:
@@ -38,8 +38,8 @@ const Menu = [
   },
   {
     id: 5,
-    image: "../images/pizza.jpg",
-    name: "pizza",
+    image: "../images/chawmin.jpg",
+    name: "Chawmin",
     category: "evening",
     price: "80₹",
     description:
@@ -47,8 +47,8 @@ const Menu = [
   },
   {
     id: 6,
-    image: "../images/nonvegthali.jpg",
-    name: "Non-Veg Thali",
+    image: "../images/paneer_pratha.jpg",
+    name: "Paneer",
     category: "dinner",
     price: "180₹",
     description:
@@ -56,8 +56,8 @@ const Menu = [
   },
   {
     id: 7,
-    image: "../images/sweet.jpg",
-    name: "Sweets",
+    image: "../images/thalii.jpg",
+    name: "Veg Thali",
     category: "dinner",
     price: "60₹",
     description:
@@ -65,8 +65,8 @@ const Menu = [
   },
   {
     id: 8,
-    image: "../images/rajmarice.jpg",
-    name: "Rajma Rice",
+    image: "../images/khichdi.jpg",
+    name: "khichadi",
     category: "lunch",
     price: "60₹",
     description:
@@ -74,8 +74,17 @@ const Menu = [
   },
   {
     id: 9,
-    image: "../images/samosa.jpg",
-    name: "samaso",
+    image: "../images/vegroll.jpg",
+    name: "Veg roll",
+    category: "evening",
+    price: "10₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+  {
+    id: 10,
+    image: "../images/uttapam_idli.jpg",
+    name: "Uttapam",
     category: "evening",
     price: "10₹",
     description:
