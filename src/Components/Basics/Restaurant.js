@@ -1,10 +1,12 @@
-import React, { Fragment } from 'react'
-import MyCard from '../MyCard'
+import React, { Fragment, useState } from 'react'
+import MenuCard from '../MenuCard'
 import '../Basics/CSS/style.css'
+import Menu from '../MenuApi'
 const Restaurant = () => {
+  const [menuData, setMenuData] = useState(Menu)
   return (
   <Fragment>
-    <MyCard/>
+    <MenuCard menuData = {menuData}/>
   </Fragment>
   )
 }
