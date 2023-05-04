@@ -41,8 +41,8 @@ html {
 }
 
 .card-container img {
-    max-width: 100%;
-    height: 300px;
+    max-width: 90%;
+    height: 250px;
 }
 
 .card {
